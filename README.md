@@ -1,5 +1,5 @@
 # Develop a dynamic Multi-Language website using Laravel Localization
-This Laravel 11 demo application is to show how you can create a dynamic multi-language website using Laravel Localization. You can store Languages in a database table and show a language switcher (dropdown) to the user to select a preferred language. If a new Language is added to the database, you only need to create Laravel language files for that language and place it in the ‘lang’ folder. You don't have to change any program code. Tutorial - https://codehow2.com/laravel/create-a-dynamic-multi-language-website-in-laravel. YouTube video - https://youtu.be/bCHEKTwaBSE.
+This Laravel 11 demo application is to show how you can create a dynamic multi-language website using Laravel Localization. You can store Languages in a database table and show a language switcher (dropdown) to the user to select a preferred language. If a new Language is added to the database, you only need to create Laravel language files for that language and place it in the ‘lang’ folder. You don't have to change any program code. Tutorial - https://codehow2.com/laravel/create-a-dynamic-multi-language-website-in-laravel.
 
 # How To Use
 1. Download the repository from https://github.com/sundarsau/lara_multi_lang
