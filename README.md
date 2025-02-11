@@ -8,9 +8,7 @@ This Laravel 11 demo application is to show how you can create a dynamic multi-l
 
 3. Create a Database in MySQL
 
-4. Copy .env.example to .env and update database name, username and password. For example, I used the database lara_form and updated database details as below:
-
-   DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=lara_lang DB_USERNAME=root DB_PASSWORD=
+4. Copy .env.example to .env and update DB_CONNECTION=mysql, DB_DATABASE= <database name>, DB_USERNAME=root and DB_PASSWORD=.
 
 5. Run composer install from the project root
 
